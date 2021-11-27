@@ -1,0 +1,13 @@
+{
+  "name": "door",
+  "start_url": "door.glb",
+  "components": [
+    {
+      "key": "open",
+      "value": {
+        "openAnimation": "open",
+        "closeAnimation": "close"
+      }
+    }
+  ]
+}
