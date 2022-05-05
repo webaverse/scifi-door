@@ -1,5 +1,6 @@
 {
   "name": "door",
+  "description": "SciFi-door",
   "start_url": "door.glb",
   "components": [
     {
